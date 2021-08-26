@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Permana**.\
+Perkenalkan nama saya **Permana**.
 
-Saya seorang **Mahasiswa** di [IT DEL](https://wwww.del.ac.id/).\
+Saya seorang **Mahasiswa** di [IT DEL](https://wwww.del.ac.id/).
 
